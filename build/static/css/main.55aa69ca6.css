@@ -1,0 +1,5 @@
+.example-react-example-sass-706-app{font-size:16px;background:rgba(0,0,0,.7)}
+.example-react-example-sass-52-test {
+  color: red;
+}
+head{--webpack-example-react-example-sass-792:app:example-react-example-sass-706-app/&_706,test:example-react-example-sass-52-test/&_52;}
